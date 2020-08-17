@@ -3,5 +3,5 @@ title: Features
 tags:
 ---
 
-## Bidirectional links
+## [[Bidirectional links]]
 ##
