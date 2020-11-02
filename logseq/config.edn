@@ -19,7 +19,9 @@
  :git-auto-push true
  
  :all-pages-public? true
- 
+ :default-home {
+                
+                }
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
