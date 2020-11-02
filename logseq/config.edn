@@ -19,7 +19,7 @@
  :git-auto-push true
  
  :all-pages-public? true
- :default-home {:page "features"
+ :default-home {:page "Features"
                 :sidebar "Contents"
                 }
 
