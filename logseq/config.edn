@@ -19,8 +19,8 @@
  :git-auto-push true
  
  :all-pages-public? true
- :default-home {page: features
-                
+ :default-home {:page "features"
+                :sidebar "Contents"
                 }
 
  ;; The app will ignore those directories or files.
