@@ -19,7 +19,7 @@
  :git-auto-push true
  
  :all-pages-public? true
- :default-home {
+ :default-home {:features
                 
                 }
 
