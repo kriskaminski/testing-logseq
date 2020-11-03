@@ -2,7 +2,153 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://logseq.com",
-  "elements": [],
+  "elements": [
+    {
+      "id": "K9cZiFofsg1fTI_1HnY8G",
+      "type": "rectangle",
+      "x": 531,
+      "y": 258,
+      "width": 331,
+      "height": 256.5,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1664653090,
+      "version": 9,
+      "versionNonce": 558560802,
+      "isDeleted": false
+    },
+    {
+      "id": "LCZqoDNyICmTkXwI0Pimi",
+      "type": "draw",
+      "x": 609,
+      "y": 352.5,
+      "width": 202.5,
+      "height": 137.5,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 631272702,
+      "version": 34,
+      "versionNonce": 513465826,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0.5
+        ],
+        [
+          3,
+          2.5
+        ],
+        [
+          8.5,
+          20.5
+        ],
+        [
+          12,
+          71.5
+        ],
+        [
+          12,
+          99.5
+        ],
+        [
+          29.5,
+          73
+        ],
+        [
+          53,
+          31
+        ],
+        [
+          58.5,
+          -5.5
+        ],
+        [
+          57,
+          -29
+        ],
+        [
+          55.5,
+          -34
+        ],
+        [
+          63.5,
+          -13.5
+        ],
+        [
+          100.5,
+          56.5
+        ],
+        [
+          118.5,
+          78.5
+        ],
+        [
+          126.5,
+          85.5
+        ],
+        [
+          128,
+          85.5
+        ],
+        [
+          153,
+          14.5
+        ],
+        [
+          166.5,
+          -28
+        ],
+        [
+          166.5,
+          -20
+        ],
+        [
+          178.5,
+          25
+        ],
+        [
+          185.5,
+          34.5
+        ],
+        [
+          187.5,
+          34.5
+        ],
+        [
+          202.5,
+          -38
+        ],
+        [
+          196.5,
+          -1.5
+        ],
+        [
+          197.5,
+          41
+        ]
+      ],
+      "lastCommittedPoint": null
+    }
+  ],
   "appState": {
     "viewBackgroundColor": "#FFF",
     "gridSize": null
